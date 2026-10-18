@@ -1,0 +1,9 @@
+{
+  "blueprint_slug": "webhook-dlq-payload-recovery-engine-n8n-redis-20261006",
+  "title": "Self-Healing Webhook Dead-Letter Queue & Payload Recovery Engine \u2014 n8n + Redis",
+  "deliverable_type": "n8n_workflow",
+  "price_eur": 14,
+  "download_gumroad": "https://mannyverse767.gumroad.com/l/bcdvfg",
+  "download_whop": "https://whop.com/mr-studio-7faa/",
+  "promo_code_20_off": "EARLYBIRD"
+}
