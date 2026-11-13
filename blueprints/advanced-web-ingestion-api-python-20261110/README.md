@@ -8,7 +8,7 @@
 
 ## ⚡ Instant Download & Turnkey Blueprint
 
-- 📦 **Complete Production Package (€17 (Use code `EARLYBIRD` for -20%)):** 👉 **[Download on Gumroad](https://mannyverse767.gumroad.com/l/lmnakb)**
+- 📦 **Complete Production Package (€17 (Use code `EARLYBIRD` for -20%)):** 👉 **[Download on Gumroad](https://mannyverse767.gumroad.com/l/lmnakb)** | ⚡ **[Instant Access on Whop](https://whop.com/mr-studio-7faa/advanced-web-ingestion-api-for-ai-agents-python-engine)**
 - 🎁 **Free Starter Blueprints (0€):**
   - [Autonomous AI Memory & Notion/Airtable RAG Sync (n8n Engine)](https://mannyverse767.gumroad.com/l/ai-agent-memory-rag-sync-notion-airtable-n8n-20260929)
   - [Programmatic SEO Markdown Engine with Quality Gates (Python)](https://mannyverse767.gumroad.com/l/programmatic-seo-markdown-generator-python-20260929)
